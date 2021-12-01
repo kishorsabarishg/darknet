@@ -49,5 +49,4 @@ lib/
 share/
 include/darknet/
 uselib_track
-darknet
 roboflow/
