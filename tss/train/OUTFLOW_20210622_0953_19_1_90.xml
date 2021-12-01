@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Linh_s Raw Images</folder>
+	<filename>OUTFLOW_20210622_0953_19_1_90.png</filename>
+	<path>D:\Linh_s Raw Images\OUTFLOW_20210622_0953_19_1_90.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>70</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>61</ymin>
+			<xmax>211</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>7</ymin>
+			<xmax>93</xmax>
+			<ymax>18</ymax>
+		</bndbox>
+	</object>
+</annotation>

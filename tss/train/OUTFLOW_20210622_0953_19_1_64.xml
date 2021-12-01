@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Linh_s Raw Images</folder>
+	<filename>OUTFLOW_20210622_0953_19_1_64.png</filename>
+	<path>D:\Linh_s Raw Images\OUTFLOW_20210622_0953_19_1_64.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>70</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bubble</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>24</ymin>
+			<xmax>409</xmax>
+			<ymax>41</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bubble</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>47</ymin>
+			<xmax>244</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>7</ymin>
+			<xmax>92</xmax>
+			<ymax>17</ymax>
+		</bndbox>
+	</object>
+</annotation>

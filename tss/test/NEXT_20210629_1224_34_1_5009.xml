@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainingImages_20210629_1224_34</folder>
+	<filename>NEXT_20210629_1224_34_1_5009.png</filename>
+	<path>C:\Users\varad\OneDrive\Desktop\new tag v12\trainingImages_20210629_1224_34\NEXT_20210629_1224_34_1_5009.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>70</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>4</ymin>
+			<xmax>364</xmax>
+			<ymax>13</ymax>
+		</bndbox>
+	</object>
+</annotation>
